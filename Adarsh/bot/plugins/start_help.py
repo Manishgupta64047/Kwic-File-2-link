@@ -230,16 +230,17 @@ async def about_handler(bot, message):
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
-┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : <a href='https://t.me/File_to_Direct_Download_Link_Bot'>File2Link</a></b>
-┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/mdiskbots'><a>𝗨𝗣𝗗𝗔𝗧𝗘𝗦</a></b>
-┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/z_harbour'><a>𝚂𝚄𝙿𝙿𝙾𝚁𝚃</a></b>
-┣⪼<b>sᴇʀᴠᴇʀ : <a href='https://render.com/'></a>RENDER</b>
-┣⪼<b> :<a href='https://docs.pyrogram.org/'></a>ᴘʏʀᴏɢʀᴀᴍ</b>
-┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ:<a href='https://www.python.org/'><a>ᴘʏᴛʜᴏɴ 3</b>
-┣⪼<b>sᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ : <a href='https://github.com/'><a>CodeSpace</a></b>
-┣⪼<b>𝙼𝚘𝚟𝚒𝚎-𝙶𝚛𝚘𝚞𝚙 : <a href='https://t.me/blackest_harbour'><a>𝙼𝚘𝚟𝚒𝚎𝚜</a></b>
+┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ :<a href='https://t.me/File_2_Link_4GB_Bot'>ғɪʟᴇ ᴛᴏ ʟɪɴᴋ</a></b>
+┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ :<a href='https://t.me/mdisk_bots'>BOTZCLUB</a></b>
+┣⪼<b>sᴜᴘᴘᴏʀᴛ :<a href='https://t.me/z_harbour'>𝓖𝓾𝓡𝓾</a></b>
+┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
+┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
+┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
+┣⪼<b>Developer:<a href='https://t.me/sigma_male_007'>Dev</a></b>
+┣⪼<b>Site : <a href='https://zharbour.blogspot.com/'>𝓖𝓾𝓡𝓾</a></b>
 ┃
-<b>╰━━━━━━━〔ᴘʟᴇᴀS sᴜᴘᴘᴏʀᴛ〕</b>""",
+<b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
+  
   
         
         reply_markup=InlineKeyboardMarkup(
