@@ -227,11 +227,15 @@ async def about_handler(bot, message):
     await message.reply_photo(
             photo="https://te.legra.ph/file/cce8a46326e6067f0d88c.jpg",
             caption="""<b>sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs😜</b>
+<b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
+
+┃
+
 ┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ :<a href='https://t.me/File_2_Link_4GB_Bot'>ғɪʟᴇ ᴛᴏ ʟɪɴᴋ</a></b>/n
 
 ┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ :<a href='https://t.me/mdisk_bots'>BOTZCLUB</a></b>/n
 
-┣⪼<b>sᴜᴘᴘᴏʀᴛ :<a href='https://t.me/z_harbour'>𝓖𝓾𝓡𝓾</a></b>
+┣⪼<b>sᴜᴘᴘᴏʀᴛ :<a href='https://t.me/z_harbour'>𝓖𝓾𝓡𝓾</a></b>/n
 
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>/n
 
@@ -241,24 +245,29 @@ async def about_handler(bot, message):
 
 ┣⪼<b>Developer:<a href='https://t.me/sigma_male_007'>Dev</a></b>/n
 
-┣⪼<b>Site : <a href='https://zharbour.blogspot.com/'>𝓖𝓾𝓡𝓾</a></b>/n
+┣⪼<b>Site : <a href='https://zharbour.blogspot.com/'>𝓾𝓡</a></b>/n
 
-""",
-(
+┃
+
+<b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
+
+  
+
+        
+
+        reply_markup=InlineKeyboardMarkup(
 
             [
 
-                [InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/mdisk_bots"), InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/Movie_Shows_Series_Bot")],
+                [InlineKeyboardButton("⚡ ᴜᴘᴅᴀᴛᴇᴢ ⚡", url="https://t.me/z_harbour"), InlineKeyboardButton("🌝Botlist🥤", url="https://t.me/mdisk_bots")],
 
-                [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴𝙱𝙾𝚃 💌 ", url="https://t.me/z_harbour")]
+                [InlineKeyboardButton("💌 sᴜʙsᴄʀɪʙᴇ 💌", url="https://zharbour.blogspot.com/")]
 
             ]
 
         )
 
     )
-
-
 
 
 
