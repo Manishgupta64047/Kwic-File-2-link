@@ -60,8 +60,8 @@ async def start(b, m):
             caption="**ʜᴇʟʟᴏ...⚡\n\nɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 ⚡", url="https://t.me/mdisk_bots"), InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/kwicbotupdates")],
-                    [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/blackest_harbour"), InlineKeyboardButton("💎 𝙾𝚃𝚃 𝙼𝙾𝚅𝙸𝙴𝚂 💎", url="https://t.me/MoviesNowOTT2")],
+                    [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 ⚡", url="https://t.me/mdisk_bots"), InlineKeyboardButton("⚡Post Filter Bot ⚡", url="https://t.me/Auto_Post_Filter_Bot")],
+                    [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/blackest_harbour"), InlineKeyboardButton("💎Movie_Series_Bot 💎", url="https://t.me/Movie_Shows_Series_Bot")],
                     [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴 𝙱𝙾𝚃 💌", url="https://t.me/MdiskLinksSearchBot")]
                 ]
             ),
@@ -227,26 +227,42 @@ async def about_handler(bot, message):
     await message.reply_photo(
             photo="https://te.legra.ph/file/cce8a46326e6067f0d88c.jpg",
             caption="""<b>sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs😜</b>
+┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ :<a href='https://t.me/File_2_Link_4GB_Bot'>ғɪʟᴇ ᴛᴏ ʟɪɴᴋ</a></b>/n
 
-<b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
-┃
-┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ :<a href='https://t.me/File_2_Link_4GB_Bot'>ғɪʟᴇ ᴛᴏ ʟɪɴᴋ</a></b>
-┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ :<a href='https://t.me/mdisk_bots'>BOTZCLUB</a></b>
+┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ :<a href='https://t.me/mdisk_bots'>BOTZCLUB</a></b>/n
+
 ┣⪼<b>sᴜᴘᴘᴏʀᴛ :<a href='https://t.me/z_harbour'>𝓖𝓾𝓡𝓾</a></b>
-┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
-┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
-┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
-┣⪼<b>Developer:<a href='https://t.me/sigma_male_007'>Dev</a></b>
-┣⪼<b>Site : <a href='https://zharbour.blogspot.com/'>𝓖𝓾𝓡𝓾</a></b>
-┃
-<b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
+
+┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>/n
+
+┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>/n
+
+┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>/n
+
+┣⪼<b>Developer:<a href='https://t.me/sigma_male_007'>Dev</a></b>/n
+
+┣⪼<b>Site : <a href='https://zharbour.blogspot.com/'>𝓖𝓾𝓡𝓾</a></b>/n
+
+""",
+(
+
+            [
+
+                [InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/mdisk_bots"), InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/Movie_Shows_Series_Bot")],
+
+                [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴𝙱𝙾𝚃 💌 ", url="https://t.me/z_harbour")]
+
+            ]
+
+        )
+
+    )
+
+
+
+
+
   
   
         
-        reply_markup=InlineKeyboardMarkup(
-            [
-                [InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/mdisk_bots"), InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/MoviesNowV2")],
-                [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴𝙱𝙾𝚃 💌 ", url="https://t.me/z_harbour")]
-            ]
-        )
-    )
+        
